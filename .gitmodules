@@ -1,0 +1,12 @@
+[submodule "pcb/library/keebio-components"]
+	path = pcb/library/keebio-components
+	url = https://github.com/keebio/keebio-components.git
+[submodule "pcb/library/Keebio-Parts.pretty"]
+	path = pcb/library/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "pcb/library/keyboard_parts.pretty"]
+	path = pcb/library/keyboard_parts.pretty
+	url = https://github.com/colemarkham/keyboard_parts.pretty
+[submodule "pcb/library/kbd"]
+	path = pcb/library/kbd
+	url = https://github.com/foostan/kbd.git
