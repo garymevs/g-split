@@ -11,4 +11,4 @@ Current status: Procrastination
 
 ![g-split-pcb-preview](g-split-pcb-preview.jpg)
 
-CAD stuff done with with [Solid Edge](https://solidedge.siemens.com/en/) and [KiCad](https://www.kicad.org/) (+ other random utilities for hacky workarounds)
+CAD stuff done with [Solid Edge](https://solidedge.siemens.com/en/) and [KiCad](https://www.kicad.org/) (+ other random utilities for hacky workarounds)
