@@ -1,5 +1,6 @@
 (sym_lib_table
-  (lib (name MX_Alps_Hybrid)(type Legacy)(uri ${KIPRJMOD}/library/Schematic_Library/MX_Alps_Hybrid.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/library/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name Keebio)(type Legacy)(uri ${KIPRJMOD}/library/keebio-components/keebio.lib)(options "")(descr ""))
   (lib (name foostan-kbd)(type Legacy)(uri ${KIPRJMOD}/library/kbd/kicad-symbols/kbd.lib)(options "")(descr ""))
+  (lib (name keyboard-rescue)(type Legacy)(uri ${KIPRJMOD}/keyboard-rescue.lib)(options "")(descr ""))
 )
