@@ -1132,4 +1132,24 @@ Text GLabel 9800 3350 2    50   Input ~ 0
 RST
 Text GLabel 11850 3350 2    50   Input ~ 0
 RST
+Text GLabel 9800 4150 2    50   Input ~ 0
+row0
+Text GLabel 9800 4050 2    50   Input ~ 0
+row1
+Text GLabel 9800 3950 2    50   Input ~ 0
+row2
+Text GLabel 9800 3850 2    50   Input ~ 0
+row3
+Text GLabel 9800 3750 2    50   Input ~ 0
+row4
+Text GLabel 11850 4150 2    50   Input ~ 0
+row0
+Text GLabel 11850 4050 2    50   Input ~ 0
+row1
+Text GLabel 11850 3950 2    50   Input ~ 0
+row2
+Text GLabel 11850 3850 2    50   Input ~ 0
+row3
+Text GLabel 11850 3750 2    50   Input ~ 0
+row4
 $EndSCHEMATC
