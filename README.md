@@ -4,7 +4,7 @@ A 60%(ish) split keeb (Still waiting on a good name)
 Current status: Procrastination
 - [x] PCB design
 - [x] Case design
-- [ ] PCB test fit with 3D printed parts (PCBs ordered...)
+- [x] PCB test fit with 3D printed parts
 - [ ] Final case design 
 
 ![g-split-preview](g-split-preview.jpg)
